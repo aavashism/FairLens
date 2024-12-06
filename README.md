@@ -1,4 +1,4 @@
-# **FairLens: AI Bias Analysis and Mitigation Tool **
+# *FairLens: AI Bias Analysis and Mitigation Tool *
 **Author**: Aavash Upadhyaya
 
 ---
