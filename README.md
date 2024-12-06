@@ -1,10 +1,10 @@
-# **FairLens: AI Fairness Audit Framework**
+# **FairLens: AI Bias Analysis and Mitigation Tool **
 **Author**: Aavash Upadhyaya
 
 ---
 
 ## **Overview**
-**FairLens** is an AI-powered fairness auditing framework designed to detect, analyze, and mitigate biases in machine learning models and datasets. It provides a structured approach to ensure that AI systems adhere to ethical principles of fairness, accountability, and transparency. By identifying biases across sensitive demographic groups, FairLens empowers developers and policymakers to make equitable and informed decisions.
+**FairLens** is an AI-powered bias analysis and mitigation tool designed to detect, evaluate, and address biases in machine learning models and datasets. It provides a structured approach to ensure that AI systems adhere to ethical principles of fairness, accountability, and transparency. By identifying biases across sensitive demographic groups, FairLens empowers developers and policymakers to make equitable and informed decisions.
 
 ---
 
